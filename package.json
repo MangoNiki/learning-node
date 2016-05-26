@@ -1,0 +1,23 @@
+{
+  "name": "node-lesson",
+  "version": "1.0.0",
+  "description": "this is my node lesson",
+  "main": "index.js",
+  "dependencies": {
+    "async": "git+https://github.com/caolan/async.git",
+    "cheerio": "^0.20.0",
+    "eventproxy": "^0.3.4",
+    "express": "^4.13.4",
+    "superagent": "^1.8.3",
+    "utility": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "niki",
+  "license": "ISC"
+}
