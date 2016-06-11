@@ -1,0 +1,1 @@
+console.info(process.argv); // 输出命令行参数

@@ -1,0 +1,1 @@
+console.info(process.cwd()); // 输出 "/MyEnv/GitHub/learning-node/Process"
